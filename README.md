@@ -1,3 +1,3 @@
-# Simple Ecommerce Website made with React + Vite
+# Simple Ecommerce Website made with React + Vite + Sanity
 
 
